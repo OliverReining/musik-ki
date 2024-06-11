@@ -4,7 +4,7 @@ Dieses Projekt zielt darauf ab, eine KI zu entwickeln, die Musik basierend auf e
 
 ## Ordnerstruktur
 
-- `data/midi_files/`: Enthält die MIDI-Dateien.
+- `data/`: Enthält die MIDI-Dateien.
 - `notebooks/`: Jupyter Notebooks für Entwicklung und Analyse.
 - `src/`: Python-Skripte und Module.
 - `models/`: Gespeicherte Modelle.
