@@ -1,4 +1,0 @@
-tensorflow
-pretty_midi
-numpy
-flask
