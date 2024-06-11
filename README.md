@@ -7,7 +7,7 @@ Dies ist ein Projekt zur Erstellung einer KI, die Musik generieren kann. Nutzer 
 1. Klone das Repository:
 
     ```sh
-    git clone <dein-repo-link>
+    git clone <[dein-repo-link](https://github.com/OliverReining/musik-ki)>
     cd musik-ki
     ```
 
