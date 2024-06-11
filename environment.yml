@@ -1,0 +1,7 @@
+name: musik-ki
+dependencies:
+  - python=3.10
+  - tensorflow
+  - pip:
+    - music21
+    - numpy
